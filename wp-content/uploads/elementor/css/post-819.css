@@ -1,0 +1,145 @@
+.elementor-819 .elementor-element.elementor-element-7e02031 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --gap: 0px 0px;
+  --background-transition: 0.3s;
+  border-style: solid;
+  --border-style: solid;
+  border-width: 1px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  border-color: #000;
+  --border-color: #000000;
+}
+.elementor-819
+  .elementor-element.elementor-element-7e02031:not(.elementor-motion-effects-element-type-background),
+.elementor-819
+  .elementor-element.elementor-element-7e02031
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: var(--e-global-color-f19b53d);
+  background-image: url(/wp-content/uploads/2024/03/Start-window-filled-noiconw1-1.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.elementor-819 .elementor-element.elementor-element-7e02031,
+.elementor-819 .elementor-element.elementor-element-7e02031::before {
+  --border-transition: 0.3s;
+}
+.elementor-819
+  .elementor-element.elementor-element-1d596e0
+  .ue-mega-menu-inner-links {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 20px;
+}
+.elementor-819 .elementor-element.elementor-element-1d596e0 .ue-link-item {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  text-align: inherit;
+  border-radius: 0 0 0 0;
+  padding: 0;
+}
+.elementor-819
+  .elementor-element.elementor-element-1d596e0
+  .ue-graphic-element {
+  width: 50px;
+  height: 50px;
+  margin-top: 0;
+}
+.elementor-819
+  .elementor-element.elementor-element-1d596e0
+  .ue-graphic-element
+  img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+}
+.elementor-819 .elementor-element.elementor-element-1d596e0 .ue-ge-icon {
+  color: #fff;
+  font-size: 10px;
+}
+.elementor-819 .elementor-element.elementor-element-1d596e0 .ue-ge-text {
+  color: #fff;
+}
+.elementor-819 .elementor-element.elementor-element-1d596e0 .ue-title {
+  color: #222;
+  font-family: argentum sans, Sans-serif;
+  font-weight: 400;
+  margin-top: 0;
+}
+.elementor-819 .elementor-element.elementor-element-1d596e0 .ue-text {
+  color: #a4a4a4;
+  margin-top: 0;
+}
+.elementor-819 .elementor-element.elementor-element-1d596e0 .ue-item-separator {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #d9d9d9;
+}
+.elementor-819 .elementor-element.elementor-element-1d596e0 .ue-menu-title {
+  color: #000;
+  text-align: inherit;
+}
+.elementor-819 .elementor-element.elementor-element-1d596e0 .ue-link-item-link {
+  margin-top: 8px;
+}
+.elementor-819
+  .elementor-element.elementor-element-1d596e0
+  > .elementor-widget-container {
+  margin: 20px 0 0;
+  padding: 0 0 0 50px;
+}
+.elementor-819 .elementor-element.elementor-element-1d596e0 {
+  width: 100%;
+  max-width: 100%;
+}
+.elementor-819 .elementor-element.elementor-element-1d596e0.elementor-element {
+  --align-self: center;
+}
+#elementor-popup-modal-819 .dialog-message {
+  width: 280px;
+  height: auto;
+}
+#elementor-popup-modal-819 {
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+#elementor-popup-modal-819 .dialog-widget-content {
+  animation-duration: 1s;
+  box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+  margin: 128px 0 0;
+}
+@media (min-width: 768px) {
+  .elementor-819 .elementor-element.elementor-element-7e02031 {
+    --content-width: 1072px;
+  }
+}
+@media (max-width: 1024px) {
+  .elementor-819
+    .elementor-element.elementor-element-1d596e0
+    .ue-mega-menu-inner-links {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+  #elementor-popup-modal-819 .dialog-widget-content {
+    margin: 126px 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-819
+    .elementor-element.elementor-element-1d596e0
+    .ue-mega-menu-inner-links {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+  #elementor-popup-modal-819 .dialog-widget-content {
+    margin: 99px 0 0;
+  }
+}

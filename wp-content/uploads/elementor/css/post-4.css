@@ -1,0 +1,112 @@
+.elementor-kit-4 {
+  --e-global-color-primary: #6ec1e4;
+  --e-global-color-secondary: #54595f;
+  --e-global-color-text: #7a7a7a;
+  --e-global-color-accent: #61ce70;
+  --e-global-color-19c41e0: #2c2c2c;
+  --e-global-color-e9ece22: #9945ff;
+  --e-global-color-31dbbdf: #14f195;
+  --e-global-color-f19b53d: #a8a8a8;
+  --e-global-color-4283a18: #030084;
+  --e-global-color-71f5523: #0e6e6d;
+  --e-global-color-1d1b7ae: #fffc00;
+  --e-global-color-4fc1260: #004f84bf;
+  --e-global-color-5aba33b: #ffffff2b;
+  --e-global-typography-primary-font-family: "Roboto";
+  --e-global-typography-primary-font-weight: 600;
+  --e-global-typography-secondary-font-family: "Roboto Slab";
+  --e-global-typography-secondary-font-weight: 400;
+  --e-global-typography-text-font-family: "Roboto";
+  --e-global-typography-text-font-weight: 400;
+  --e-global-typography-accent-font-family: "Roboto";
+  --e-global-typography-accent-font-weight: 500;
+  --e-global-typography-898acbe-font-family: "Angkor";
+  --e-global-typography-898acbe-font-size: 35px;
+  --e-global-typography-898acbe-font-weight: 400;
+  --e-global-typography-7f9afb5-font-family: "Readex Pro";
+  --e-global-typography-7f9afb5-font-weight: 600;
+  --e-global-typography-abef6f4-font-family: "Readex Pro";
+  --e-global-typography-abef6f4-font-size: 18px;
+  --e-global-typography-abef6f4-font-weight: 600;
+  --e-global-typography-7715caf-font-family: "Alfa Slab One";
+  --e-global-typography-7715caf-font-size: 200px;
+  --e-global-typography-7715caf-font-weight: 400;
+  --e-global-typography-7715caf-letter-spacing: -2.9px;
+  --e-global-typography-1504830-font-family: "Argentum Sans";
+  --e-global-typography-1504830-font-size: 220px;
+  --e-global-typography-1504830-font-weight: 400;
+  --e-global-typography-1504830-letter-spacing: -2.9px;
+  font-family: "a- text.", Sans-serif;
+  background-color: #858585;
+}
+.elementor-kit-4 h1 {
+  font-family: "c - text", Sans-serif;
+}
+.elementor-section.elementor-section-boxed > .elementor-container {
+  max-width: 1140px;
+}
+.e-con {
+  --container-max-width: 1140px;
+}
+.elementor-widget:not(:last-child) {
+  margin-block-end: 20px;
+}
+.elementor-element {
+  --widgets-spacing: 20px 20px;
+}
+ {
+}
+h1.entry-title {
+  display: var(--page-title-display);
+}
+.elementor-kit-4 e-page-transition {
+  background-color: #ffbc7d;
+}
+.site-header .site-branding {
+  flex-direction: column;
+  align-items: stretch;
+}
+.site-header {
+  padding-inline-end: 0;
+  padding-inline-start: 0;
+}
+.site-footer .site-branding {
+  flex-direction: column;
+  align-items: stretch;
+}
+@media (max-width: 1024px) {
+  .elementor-kit-4 {
+    --e-global-typography-7f9afb5-font-size: 18px;
+    --e-global-typography-abef6f4-font-size: 18px;
+    --e-global-typography-7715caf-font-size: 170px;
+    --e-global-typography-1504830-font-size: 170px;
+  }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1024px;
+  }
+  .e-con {
+    --container-max-width: 1024px;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-kit-4 {
+    --e-global-typography-7f9afb5-font-size: 14px;
+    --e-global-typography-abef6f4-font-size: 14px;
+    --e-global-typography-7715caf-font-size: 67px;
+    --e-global-typography-1504830-font-size: 67px;
+  }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 767px;
+  }
+  .e-con {
+    --container-max-width: 767px;
+  }
+}
+@font-face {
+  font-family: argentum sans;
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+  src: url(/wp-content/uploads/2024/03/ArgentumSans-ExtraBold.ttf)
+    format("truetype");
+}

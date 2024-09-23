@@ -1,0 +1,112 @@
+.elementor-1098 .elementor-element.elementor-element-a30cd01 {
+  --display: flex;
+  --min-height: 139px;
+  --flex-direction: column;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --justify-content: flex-end;
+  --align-items: center;
+  --gap: 0px 0px;
+  --background-transition: 0.3s;
+  --margin-top: 0px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --padding-top: 0px;
+  --padding-bottom: 0px;
+  --padding-left: 0px;
+  --padding-right: 0px;
+}
+.elementor-1098
+  .elementor-element.elementor-element-a30cd01:not(.elementor-motion-effects-element-type-background),
+.elementor-1098
+  .elementor-element.elementor-element-a30cd01
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url(https://moggo.club/wp-content/uploads/2024/04/Token-Burn.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.elementor-1098 .elementor-element.elementor-element-a30cd01,
+.elementor-1098 .elementor-element.elementor-element-a30cd01::before {
+  --border-transition: 0.3s;
+}
+.elementor-1098 .elementor-element.elementor-element-9d32a15 .elementor-button {
+  fill: #ffffff00;
+  color: #ffffff00;
+  background-color: #ffffff00;
+  padding: 10px 100px;
+}
+#elementor-popup-modal-1098 .dialog-message {
+  width: 350px;
+  height: 139px;
+  align-items: flex-start;
+}
+#elementor-popup-modal-1098 {
+  justify-content: center;
+  align-items: center;
+}
+#elementor-popup-modal-1098 .dialog-close-button {
+  display: flex;
+  top: 4px;
+  font-size: 16px;
+}
+#elementor-popup-modal-1098 .dialog-widget-content {
+  background-color: #ffffff00;
+  border-style: none;
+}
+body:not(.rtl) #elementor-popup-modal-1098 .dialog-close-button {
+  right: 6px;
+}
+body.rtl #elementor-popup-modal-1098 .dialog-close-button {
+  left: 6px;
+}
+#elementor-popup-modal-1098 .dialog-close-button i {
+  color: #0201011c;
+}
+#elementor-popup-modal-1098 .dialog-close-button svg {
+  fill: #0201011c;
+}
+@media (min-width: 768px) {
+  .elementor-1098 .elementor-element.elementor-element-a30cd01 {
+    --content-width: 450px;
+  }
+}
+@media (max-width: 1024px) {
+  .elementor-1098 .elementor-element.elementor-element-a30cd01 {
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-1098 .elementor-element.elementor-element-a30cd01 {
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+  }
+  #elementor-popup-modal-1098 {
+    justify-content: center;
+    align-items: center;
+  }
+  body:not(.rtl) #elementor-popup-modal-1098 .dialog-close-button {
+    right: 5px;
+  }
+  body.rtl #elementor-popup-modal-1098 .dialog-close-button {
+    left: 5px;
+  }
+  #elementor-popup-modal-1098 .dialog-message {
+    padding: 0;
+  }
+}
